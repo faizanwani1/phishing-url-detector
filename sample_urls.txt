@@ -1,0 +1,4 @@
+http://secure-login-paypal.verify-user.com
+https://192.168.1.10/bank/update
+https://www.google.com
+https://accounts.google.com
